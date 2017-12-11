@@ -1,6 +1,4 @@
 
-
-
 # [My Home Page](https://takeyan1004.github.io/MyHomePage/)
 
 
@@ -10,10 +8,10 @@ This website shows my resume and portfolio. I used the [startbootstrap template]
 
 ## Preview
 
-[![Resume Preview](https://startbootstrap.com/assets/img/templates/resume.jpg)](https://takeyan1004.github.io/MyHomePage/)
+[![Resume Preview](img/sample.jpg)](https://takeyan1004.github.io/MyHomePage/)
 
 **[View Live Preview](https://takeyan1004.github.io/MyHomePage/)**
 
-##PROGRAMMING LANGUAGES & TOOLS
+## PROGRAMMING LANGUAGES & TOOLS
 
 HTML, CSS, Javascript, jquery, Bootstrap, Git, Github
